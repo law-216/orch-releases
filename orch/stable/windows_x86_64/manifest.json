@@ -1,0 +1,21 @@
+{
+  "key_id": "orch-release-2026-01",
+  "signature": "DUqBNEJUnLoTeuiiGXRk7yfVQTJLOCOauHsIC8eOL3rcrDbRJku9/7cCZWG12YGsvNnF3htWO1jTfmr0o5nhCw==",
+  "manifest": {
+    "schema_version": 1,
+    "product": "orch",
+    "channel": "stable",
+    "version": "0.1.2",
+    "published_at": "2026-09-13T01:21:00+00:00",
+    "minimum_supported_version": null,
+    "artifacts": {
+      "windows_x86_64": {
+        "filename": "OrchSetup-0.1.2-unsigned.exe",
+        "url": "https://github.com/law-216/orch-releases/releases/download/v0.1.2/OrchSetup-0.1.2-unsigned.exe",
+        "sha256": "bc63cc880b6c01c585663b2d0806f380f2959becfaf2f1472807ab775f1923ab",
+        "size": 29811965
+      }
+    },
+    "release_notes_url": null
+  }
+}
